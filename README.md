@@ -56,8 +56,8 @@ Open to roles in **Data Analysis**, **Business Intelligence**, **Data Engineerin
 
 ## 📫 Get in touch
 
-Email: **[ishaan.singh.shekhawat@gmail.com](mailto\:ishaan.singh.shekhawat@gmail.com)**
-Twitter/X: [**https://x.com/IshaanSEO**](https://x.com/IshaanSEO)
-LinkedIn: [**https://www.linkedin.com/in/ishaanss/**](https://www.linkedin.com/in/ishaanss/)
-Website: [**https://ishaanss.com**](https://ishaanss.com)
+- Email: **[ishaan.singh.shekhawat@gmail.com](mailto\:ishaan.singh.shekhawat@gmail.com)**
+- Twitter/X: [**https://x.com/IshaanSEO**](https://x.com/IshaanSEO)
+- LinkedIn: [**https://www.linkedin.com/in/ishaanss/**](https://www.linkedin.com/in/ishaanss/)
+- Website: [**https://ishaanss.com**](https://ishaanss.com)
 
