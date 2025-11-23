@@ -34,11 +34,11 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+<h3 align="center">🛠️ Tools & Technologies</h3>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 <strong>Languages & Scripting:</strong><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/ishaanshekhawat/ishaanshekhawat/blob/main/icons/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/ishaanshekhawat/ishaanshekhawat/blob/main/icons/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -74,7 +74,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ishaanshekhawat/ishaanshekhawat/blob/main/icons/github-original.svg" alt="github" width="40" height="40"/></a>
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaanshekhawat&layout=donut&langs_count=8" alt="Ishaan Shekhawat's Top Languages" />
 </td>
 </tr>
