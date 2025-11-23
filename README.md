@@ -15,7 +15,7 @@
 
 ## 🛠️ Highlighted Projects
 
-- **[giftsuggestions.io](https://giftsuggestions.io/)** — An AI-based gift suggestion website.
+- **[GiftSuggestions.io](https://giftsuggestions.io/)** — An AI-based gift suggestion website.
 - **[Log File Analysis (R)](https://www.ishaanss.com/log-file-analysis-using-r/)** — A project that parses server logs and extracts actionable insights using R.
 - **[Website Meta Tags Crawler (Python)](https://www.ishaanss.com/custom-python-seo-crawler/)** — A lightweight crawler that extracts meta tags and on-page SEO signals across sites, useful for diagnostics and bulk audits.
 
