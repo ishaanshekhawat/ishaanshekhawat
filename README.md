@@ -51,4 +51,3 @@ Open to roles in **Data Analysis**, **Business Intelligence**, **Data Engineerin
 - Twitter/X: [**https://x.com/IshaanSEO**](https://x.com/IshaanSEO)
 - LinkedIn: [**https://www.linkedin.com/in/ishaanss/**](https://www.linkedin.com/in/ishaanss/)
 - Website: [**https://ishaanss.com**](https://ishaanss.com)
-- **Location:** Pune, Maharashtra, India
