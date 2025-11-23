@@ -16,31 +16,31 @@
 ## 🧭 About
 
 - **Name:** Ishaan Singh Shekhawat
-- **Email (public):** [ishaan.singh.shekhawat@gmail.com](mailto\:ishaan.singh.shekhawat@gmail.com)
-- **Website / Personal blog:** [https://ishaanss.com](https://ishaanss.com)
-- **Location:** India
+- **Email:** [ishaan.singh.shekhawat@gmail.com](mailto\:ishaan.singh.shekhawat@gmail.com)
+- **Website/Personal blog:** [https://ishaanss.com](https://ishaanss.com)
+- **Location:** Pune, Maharashtra, India
 
 ---
 
 ## 🛠️ Highlighted Projects
 
-- **giftsuggestions.io** — An AI-based gift suggestion website (product-focused; includes a newsletter with curated, heartwarming stories to boost engagement).
-- **Log File Analysis (R)** — A project that parses server logs and extracts actionable insights using R. (Write-up: ishaanss.com/log-file-analysis-using-r/)
-- **Website Meta Tags Crawler (Python)** — A lightweight crawler that extracts meta tags and on-page SEO signals across sites, useful for diagnostics and bulk audits.
+- **[giftsuggestions.io](https://giftsuggestions.io/)** — An AI-based gift suggestion website.
+- **Log File Analysis (R)** — A project that parses server logs and extracts actionable insights using R. (ishaanss.com/log-file-analysis-using-r/)
+- **Website Meta Tags Crawler (Python)** — A lightweight crawler that extracts meta tags and on-page SEO signals across sites, useful for diagnostics and bulk audits. (https://www.ishaanss.com/custom-python-seo-crawler/)
 
 ---
 
 ## 💼 Experience & Focus
 
 - Background in **SEO** with hands-on experience auditing sites and extracting growth signals.
-- Current focus: **Data Science, Data Engineering, and Analytics-driven product work**.
-- Strengths: SQL optimization, data pipelines, log analysis, and building pragmatic tools that drive business value.
+- Current focus: **Data Engineering and Analytics-driven product work**.
+- Strengths: SQL optimization, data pipelines, log analysis, and building tools that drive business value.
 
 ---
 
 ## 🎯 What I'm Looking For
 
-Open to roles in **Data Analysis**, **Business Intelligence**, **Data Engineering**, and analytics-focused Product teams. Interested in positions where I can bring both SEO/product intuition and technical data skills.
+Open to roles in **Data Analysis**, **Business Intelligence**, **Data Engineering**, and analytics-focused Product teams. Interested in positions where I can bring both product intuition and technical data skills.
 
 ---
 
@@ -48,7 +48,7 @@ Open to roles in **Data Analysis**, **Business Intelligence**, **Data Engineerin
 
 - Reading
 - Writing
-- Trekking&#x20;
+- Trekking
 - Playing & watching Football
 - Adventure sports
 
@@ -57,5 +57,7 @@ Open to roles in **Data Analysis**, **Business Intelligence**, **Data Engineerin
 ## 📫 Get in touch
 
 Email: **[ishaan.singh.shekhawat@gmail.com](mailto\:ishaan.singh.shekhawat@gmail.com)**
+Twitter/X: [**https://x.com/IshaanSEO**](https://x.com/IshaanSEO)
+LinkedIn: [**https://www.linkedin.com/in/ishaanss/**](https://www.linkedin.com/in/ishaanss/)
 Website: [**https://ishaanss.com**](https://ishaanss.com)
 
